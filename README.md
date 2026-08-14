@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
