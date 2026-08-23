@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1927-sum-game](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1927-sum-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
