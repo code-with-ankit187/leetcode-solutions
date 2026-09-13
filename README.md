@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1406-stone-game-iii](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
