@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1406-stone-game-iii](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1927-sum-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3904-smallest-stable-index-ii](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Union-Find
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
