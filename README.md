@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1406-stone-game-iii](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1872-stone-game-viii](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1872-stone-game-viii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0940-distinct-subsequences-ii](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1872-stone-game-viii) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
 |  |
@@ -172,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Binary Search
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
