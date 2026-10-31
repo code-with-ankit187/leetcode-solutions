@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3731-find-missing-elements](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## String
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3665-twisted-mirror-path-count](https://github.com/code-with-ankit187/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Recursion
 |  |
 | ------- |
